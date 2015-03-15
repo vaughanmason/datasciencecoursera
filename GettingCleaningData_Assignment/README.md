@@ -2,6 +2,8 @@
 
 The purpose of the run_analysis.R script is to join the Test and Train data obtained from the Samsung Galaxy S smartphone and obtain the average Mean and Stadard Deviation for each subject.
 
+The codebook can be found in output_info.txt
+
 The following steps are performed
 <ol>
 <li> Extract the Headings </li>
