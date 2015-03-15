@@ -4,6 +4,10 @@ The purpose of the run_analysis.R script is to join the Test and Train data obta
 
 The codebook can be found in output_info.txt
 
+The data for this project will need to be extracted to the data folder.
+Here is the data for the project: 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 The following steps are performed in the *run_analysis.R*
 <ol>
 <li> Extract the Headings </li>
