@@ -4,7 +4,7 @@ The purpose of the run_analysis.R script is to join the Test and Train data obta
 
 The codebook can be found in output_info.txt
 
-The following steps are performed
+The following steps are performed in the *run_analysis.R*
 <ol>
 <li> Extract the Headings </li>
 <li>Extract the Activity Labels </li>
