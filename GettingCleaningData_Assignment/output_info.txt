@@ -1,0 +1,102 @@
+Output Information
+The data stored in the output.txt is a tidy data set that contains the average of each variable measured for each subject.
+This data set is only highlighting the average Mean and Standard Deviation for each measurement.
+This data set only has data where a Subject has a recorded Activity
+
+Subject  
+	List of all the Subjects
+Activity                  
+	List of all the Activities
+		LAYING
+		SITTING     
+		STANDING       
+		WALKING 
+		WALKING_DOWNSTAIRS   
+		WALKING_UPSTAIRS 
+		
+Each of the Measurements below are the Average For Each Subject, additional informations on the measurements can be found in data/features_info.txt
+
+	Body Acc Mean X          
+	Body Acc Mean Y             
+	Body Acc Mean Z          
+	Body Acc Std X              
+	Body Acc Std Y
+	Body Acc Std Z       
+	
+	Gravity Acc Mean X       
+	Gravity Acc Mean Y          
+	Gravity Acc Mean Z      
+	Gravity Acc Std X           
+	Gravity Acc Std Y        
+	Gravity Acc Std Z   
+	
+	Body Acc Jerk Mean X      
+	Body Acc Jerk Mean Y        
+	Body Acc Jerk Mean Z    
+	Body Acc Jerk Std X      
+	Body Acc Jerk Std Y      
+	Body Acc Jerk Std Z      
+	
+	Body Gyro Mean X         
+	Body Gyro Mean Y            
+	Body Gyro Mean Z         
+	Body Gyro Std X             
+	Body Gyro Std Y          
+	Body Gyro Std Z             
+
+	Body Gyro Jerk Mean X     
+	Body Gyro Jerk Mean Y       
+	Body Gyro Jerk Mean Z    
+	Body Gyro Jerk Std X        
+	Body Gyro Jerk Std Y      
+	Body Gyro Jerk Std Z        
+
+	Body Acc Mag Mean       
+	Body Acc Mag Std            
+
+	Gravity Acc Mag Mean    
+	Gravity Acc Mag Std         
+
+	Body Acc Jerk Mag Mean      
+	Body Acc Jerk Mag Std       
+
+	Body Gyro Mag Mean         
+	Body Gyro Mag Std
+
+	Body Gyro Jerk Mag Mean    
+	Body Gyro Jerk Mag Std      
+
+	Body Acc Mean X.1         
+	Body Acc Mean Y.1         
+	Body Acc Mean Z.1          
+
+	Body Acc Std X.1            
+	Body Acc Std Y.1         
+	Body Acc Std Z.1            
+
+	Body Acc Jerk Mean X.1     
+	Body Acc Jerk Mean Y.1      
+	Body Acc Jerk Mean Z.1    
+
+	Body Acc Jerk Std X.1       
+	Body Acc Jerk Std Y.1     
+	Body Acc Jerk Std Z.1       
+
+	Body Gyro Mean X.1        
+	Body Gyro Mean Y.1          
+	Body Gyro Mean Z.1      
+
+	Body Gyro Std X.1           
+	Body Gyro Std Y.1          
+	Body Gyro Std Z.1           
+	Body Acc Mag Mean.1        
+	Body Acc Mag Std.1          
+
+	Body Body Acc Jerk Mag Mean 
+	Body Body Acc Jerk Mag Std  
+
+	Body Body Gyro Mag Mean     
+	Body Body Gyro Mag Std      
+
+	Body Body Gyro Jerk Mag Mean
+	Body Body Gyro Jerk Mag Std 
